@@ -32,8 +32,7 @@ brew 'minikube'
 brew 'mysql'
 brew 'openssl'
 brew 'packer'
-brew 'php@7.3', link: true
-brew 'php@7.4'
+brew 'php@7.4', link: true
 brew 'postgresql'
 brew 'puma/puma/puma-dev'
 brew 'python', link: true
@@ -64,7 +63,6 @@ cask 'dropbox'
 cask 'evernote'
 cask 'firefox'
 cask 'google-chrome'
-cask 'google-photos-backup-and-sync'
 cask 'google-cloud-sdk'
 cask 'harvest'
 cask 'iterm2'
