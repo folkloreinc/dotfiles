@@ -43,3 +43,5 @@
 [user]
 	name = David Mongeau-Petitpas
 	email = dmongeau.petitpas@gmail.com
+[init]
+	defaultBranch = main

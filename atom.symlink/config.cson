@@ -1,4 +1,16 @@
 "*":
+  "atom-ide-ui":
+    "atom-ide-code-format":
+      formatOnSave: true
+      formatOnType: false
+    "atom-ide-diagnostics-ui":
+      autoVisibility: true
+    "atom-ide-signature-help":
+      enable: false
+    use:
+      "atom-ide-datatip": "never"
+  "atom-package-deps":
+    ignored: []
   "autocomplete-plus":
     confirmCompletion: "tab"
   core:
@@ -10,7 +22,6 @@
       "github"
       "background-tips"
       "whitespace"
-      "linter-php"
     ]
     excludeVcsIgnoredPaths: false
     followSymlinks: false
@@ -38,6 +49,8 @@
   "git-diff":
     showIconsInEditorGutter: true
   jshint: {}
+  "language-applescript":
+    autoCompile: false
   "language-babel": {}
   linter:
     lintOnChange: false
@@ -61,6 +74,11 @@
     useGitHubStyle: true
   metrics:
     userId: "d4f04106661c7c892c48e7ea675a18896355e99a"
+  "php-ide-serenata":
+    general:
+      doNotShowProjectChangeMessage: true
+      projectOpenCount: 3
+    storagePath: "/Users/dmp/Library/Preferences/php-ide-serenata"
   phpunit:
     execPath: "./vendor/bin/phpunit"
   react: {}
