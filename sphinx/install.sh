@@ -1,1 +1,1 @@
-pip install sphinx recommonmark
+pip3 install sphinx recommonmark
