@@ -1,6 +1,6 @@
 cask_args appdir: '/Applications'
 
-tap 'puma/puma'
+tap 'shivammathur/php'
 tap 'folkloreatelier/fonts'
 
 brew 'ack'
@@ -43,14 +43,12 @@ brew 'starship'
 brew 'terraform'
 brew 'transmission'
 brew 'wget'
-brew 'youtube-dl'
 brew 'zsh'
 brew 'wakeonlan'
 
 cask '1password'
 cask '1password-cli'
 cask 'arq'
-cask 'airfoil'
 cask 'cyberduck'
 cask 'docker'
 cask 'firefox'
