@@ -61,9 +61,13 @@ There's a few special files in the hierarchy.
 Run this:
 
 ```sh
-git clone https://github.com/holman/dotfiles.git ~/.dotfiles
+
+git clone https://github.com/folkloreinc/dotfiles.git ~/.dotfiles
+
 cd ~/.dotfiles
+
 script/bootstrap
+
 ```
 
 This will symlink the appropriate files in `.dotfiles` to your home directory.
