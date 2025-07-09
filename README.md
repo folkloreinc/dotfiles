@@ -1,5 +1,7 @@
 # dotfiles
 
+Basic dotfiles of folklore, fork to customize
+
 ## procédure
 
 Voir note sécurisée
